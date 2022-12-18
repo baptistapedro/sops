@@ -1,0 +1,5 @@
+project: sops
+target: sops
+
+cmds:
+  - cmd: /fuzz_decryptmsg
